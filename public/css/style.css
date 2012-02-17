@@ -4,12 +4,12 @@ body {
     font: 300 100.1% "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
 }
 #holder {
-    height: 480px;
-    left: 50%;
-    margin: -240px 0 0 -320px;
-    position: absolute;
-    top: 50%;
-    width: 640px;
+    height: 100%;
+    width: 100%;
+	border: solid 1px red;
+	position: absolute;
+	top: 0px;
+	left: 0px;
 }
 #copy {
     bottom: 0;
